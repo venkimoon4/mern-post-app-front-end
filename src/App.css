@@ -32,7 +32,7 @@ form{
   flex-direction: column;
   justify-content: space-around;
   width: 500px;
-  padding: 30px;
+  padding: 10px;
   border: 2px solid #836FFF;
 }
 form p{
@@ -48,11 +48,11 @@ form input{
   border: 1px solid #836FFF;
 }
 form label{
-  padding: 10px;
+  padding: 15px 10px;
   font-size: 1rem;
   border-radius: 20px;
   border: 1px solid #836FFF;
-   color: grey;
+  color: grey;
 }
 form div{
   display: flex;
